@@ -30,7 +30,7 @@ Follow the steps below to run the project on your machine:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/mukundsoni07/roleBasedMernApp
+git clone https://github.com/mukundsoni07/roleBasedBlogApp
 cd roleBasedBlogApp
 ```
 
