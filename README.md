@@ -86,7 +86,7 @@ npm install
 
 ---
 
-### ⚙️ 6. Set Up Frontend Environment Variables
+### 6. Set Up Frontend Environment Variables
 
 Create a `.env` file in the `frontend` directory:
 
